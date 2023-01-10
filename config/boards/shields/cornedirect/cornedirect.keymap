@@ -19,10 +19,7 @@
 // | SHFT |  Z  |  X  |  C  |  V  |  B  |   
 //                    | GUI | SPC | SPC |  
                         bindings = <
-   &kp TAB   &kp Q &kp W &kp E &kp R &kp T
-   &kp LCTRL &kp A &kp S &kp D &kp F &kp G
-   &kp LSHFT &kp Z &kp X &kp C &kp V &kp B
-                  &kp LGUI &kp SPACE &kp SPACE
+   &kp Q &kp W &kp E
                         >;
                 };
         };
